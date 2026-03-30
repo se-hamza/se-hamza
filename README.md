@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Hamza Sabir</h1>
 <h3 align="center">A Passionate Technical Project Manager from Pakistan</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **AI & Automation**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **AI & Automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
